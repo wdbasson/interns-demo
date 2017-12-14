@@ -13,4 +13,10 @@ dumela
 Molweni
 
 # Note
-Remember to pull before you push, because someone else might have pushed something in the meantime.
+Remember to pull before you push, because someone else might have pushed something in the meantime.  
+
+# Day two
+- Create a branch with your name  
+
+Don't worry about forking, just work on the repository that you've already cloned.  
+http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
