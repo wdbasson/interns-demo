@@ -8,6 +8,7 @@ touch <your-file.txt>
 git add <your-file.txt>
 git commit -m "your commit message"
 git push
+dumela
 ```
 
 # Note
