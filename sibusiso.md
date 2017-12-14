@@ -8,9 +8,7 @@ touch <your-file.txt>
 git add <your-file.txt>
 git commit -m "your commit message"
 git push
-dumela
 ```
-Molweni
 
 # Note
 Remember to pull before you push, because someone else might have pushed something in the meantime.
